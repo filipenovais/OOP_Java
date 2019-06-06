@@ -6,4 +6,4 @@ Repository for Object Oriented Programming course.
 Project
 --------
 
-- Project description
+- Math in Casinos: Video Poker
