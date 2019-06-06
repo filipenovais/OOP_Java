@@ -1,5 +1,12 @@
 # Object Oriented Programming (OOP)
+Image Processing and Vision (IPV)
 ====
-asdasdasasd
+
+Repository for Artificial Intelligence and Decision Systems (IASD) course projects.
+
+Projects
 --------
-![alt text](https://raw.githubusercontent.com/filipenovais/test/master/Captura%20de%20ecra%CC%83%202019-06-06%2C%20a%CC%80s%2015.21.53.png)
+
+- Project 1: computing optimal paths for a trip in terms of cost and time, obeying to restrictions. Heuristics are applied
+- Project 2: appliying GSAT, WalkSAT and DPLL to solve CNF clauses
+- Project 3: using Bayesian Networks to compute the probability of events given some evidence
