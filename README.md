@@ -1,5 +1,4 @@
-# Object Oriented Programming (OOP)
-Image Processing and Vision (IPV)
+Object Oriented Programming (OOP)
 ====
 
 Repository for Artificial Intelligence and Decision Systems (IASD) course projects.
