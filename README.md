@@ -1,7 +1,7 @@
 Object Oriented Programming (OOP)
 ====
 
-Repository for Object Oriented Programming course.
+Repository for the Object Oriented Programming course.
 
 Project
 --------
