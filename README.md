@@ -13,3 +13,7 @@ There are three different modes for playing video poker. An interactive mode, wh
 player is playing through commands in the command line. A debug mode, where the game is
 fully loaded from a file. A simulation mode where the game is automatically played with a
 perfect strategy to understand the average gain in the player’s credit.
+
+![alt text](https://github.com/filipenovais/Object.Oriented.Programming/blob/master/GUI.png)
+![alt text](https://github.com/filipenovais/Object.Oriented.Programming/blob/master/DealHold.png)
+
